@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Live Link :--> https://amanurmila.github.io/tic-tac-toe-game</h3>
+
+###
+
 <h2 align="left">Technologies :--></h2>
 
 ###
